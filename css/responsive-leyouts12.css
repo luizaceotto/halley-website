@@ -1,0 +1,470 @@
+/* Responsive CSS Styles Table of Contents */
+
+@media only screen and (min-width: 1000px) and (max-width: 1169px){
+.container {
+	width: 1000px;
+	margin: auto;
+}
+
+.feature_section5 .con {
+	font-size: 16px;
+	padding:10px 16px;
+	margin-top:-115px;
+	margin-left:25px;
+	margin-right:25px;
+	line-height:21px;
+}
+
+.feature_section6 .contentbox {
+	padding: 45px 20px 45px 20px;
+}
+
+.newsletter .enter_email_input {
+	width: 68%;
+}
+
+
+}
+
+
+
+@media only screen and (min-width: 768px) and (max-width: 999px){
+.container {
+	width: 747px;
+	margin: auto;
+}
+
+.logo {
+	width: 50%;
+}
+.menu_main {
+	width: 97%;
+	position: absolute;
+}
+
+.feature_section5 .con {
+	font-size: 16px;
+	padding:10px 16px;
+	margin-top:-115px;
+	margin-left:25px;
+	margin-right:25px;
+	line-height:21px;
+}
+
+.feature_section6 .contentbox {
+	padding: 45px 20px 45px 20px;
+}
+
+.less4 {
+	width: 75%;
+}
+.less6 {
+	width: 85%;
+}
+
+
+}
+
+
+
+
+
+@media only screen and (min-width: 640px) and (max-width: 767px){
+/* columns */
+.one_half, .one_third, .one_fourth, .two_third, .three_fourth, .one_fifth, .onecol_forty, .onecol_sixty, .onecol_thirtyfive,
+.one_half_less, .one_third_less, .one_fourth_less, .two_third_less, .three_fourth_less, .one_fifth_less, .onecol_forty_less, .onecol_sixty_less, .onecol_thirtyfive_less {
+	position: relative;
+	margin-right: 0%;
+	float: left;
+}
+.one_full,
+.one_half,
+.one_third,
+.one_fourth,
+.one_fifth,
+.two_third,
+.three_fourth,
+.onecol_forty,
+.onecol_sixty,
+.onecol_thirtyfive,
+.one_full_less,
+.one_half_less,
+.one_third_less,
+.one_fourth_less,
+.one_fifth_less,
+.two_third_less,
+.three_fourth_less,
+.onecol_forty_less,
+.onecol_sixty_less,
+.onecol_thirtyfive_less {
+	width: 100%;
+	margin-bottom: 50px;
+}
+.last {
+	margin-right: 0 !important;
+	margin-bottom: 0 !important;
+}
+
+.container {
+	width: 590px;
+	margin: auto;
+}
+
+.logo {
+	width: 75%;
+}
+.menu_main {
+	width: 93%;
+	position: absolute;
+}
+
+
+.feature_section1 .box1  {
+	width: 100%;
+	float: left;
+	border-right: none;
+	border-bottom: 1px dashed #dedede;
+	padding: 40px 0px;
+}
+.feature_section1 .box2 {
+	width: 100%;
+	float: left;
+	border:none;
+	padding: 40px 0px 0px 0px;
+}
+.feature_section1 .box1:first-child  {
+	padding: 0px 0px 40px 0px;
+}
+
+.feature_section5 .con {
+	font-size: 14px;
+	padding:10px 16px;
+	margin-top:-115px;
+	margin-left:25px;
+	margin-right:25px;
+	line-height:21px;
+}
+
+.newsletter .one_half {
+	margin: 0;
+}
+
+
+.copyright_info .one_half {
+	text-align: left;
+	margin: 0;
+}
+ul.footer_social_links {
+	float: left;
+	margin: 10px 0px 0px 0px;
+}
+.footer_social_links li {
+	margin: 0px 5px 0px 0px;
+}
+
+
+.less4 {
+	width: 100%;
+}
+.less6 {
+	width: 100%;
+}
+
+
+h1 {
+	font-size: 30px;
+	line-height: 30px;
+}
+h2 {
+	font-size: 23px;
+	line-height: 27px;
+}
+h3 {
+	font-size: 18px;
+	line-height: 25px;
+}
+h4 {
+	font-size: 16px;
+	line-height: 25px;
+}
+.feature_section3 h1 {
+	font-size: 30px;
+	line-height: 35px;
+}
+
+
+}
+
+
+@media only screen and (min-width: 480px) and (max-width: 639px){
+
+/* columns */
+.one_half, .one_third, .one_fourth, .two_third, .three_fourth, .one_fifth, .onecol_forty, .onecol_sixty, .onecol_thirtyfive,
+.one_half_less, .one_third_less, .one_fourth_less, .two_third_less, .three_fourth_less, .one_fifth_less, .onecol_forty_less, .onecol_sixty_less, .onecol_thirtyfive_less {
+	position: relative;
+	margin-right: 0%;
+	float: left;
+}
+.one_full,
+.one_half,
+.one_third,
+.one_fourth,
+.one_fifth,
+.two_third,
+.three_fourth,
+.onecol_forty,
+.onecol_sixty,
+.onecol_thirtyfive,
+.one_full_less,
+.one_half_less,
+.one_third_less,
+.one_fourth_less,
+.one_fifth_less,
+.two_third_less,
+.three_fourth_less,
+.onecol_forty_less,
+.onecol_sixty_less,
+.onecol_thirtyfive_less {
+	width: 100%;
+	margin-bottom: 50px;
+}
+.last {
+	margin-right: 0 !important;
+	margin-bottom: 0 !important;
+}
+
+.container {
+	width: 440px;
+	margin: auto;
+}
+
+.logo {
+	width: 90%;
+}
+.menu_main {
+	width: 93%;
+	position: absolute;
+}
+
+.slidermar12 {
+	padding-top: 75px;
+}
+
+.feature_section1 .box1  {
+	width: 100%;
+	float: left;
+	border-right: none;
+	border-bottom: 1px dashed #dedede;
+	padding: 40px 0px;
+}
+.feature_section1 .box2 {
+	width: 100%;
+	float: left;
+	border:none;
+	padding: 40px 0px 0px 0px;
+}
+.feature_section1 .box1:first-child  {
+	padding: 0px 0px 40px 0px;
+}
+
+.feature_section5 .con {
+	font-size: 14px;
+	padding:10px 16px;
+	margin-top:-115px;
+	margin-left:25px;
+	margin-right:25px;
+	line-height:21px;
+}
+
+.newsletter .one_half {
+	margin: 0;
+}
+.newsletter .enter_email_input {
+	width: 100%;
+}
+
+.copyright_info .one_half {
+	text-align: left;
+	margin: 0;
+}
+ul.footer_social_links {
+	float: left;
+	margin: 10px 0px 0px 0px;
+}
+.footer_social_links li {
+	margin: 0px 5px 0px 0px;
+}
+
+
+.less4 {
+	width: 90%;
+}
+.less6 {
+	width: 90%;
+}
+
+
+
+h1 {
+	font-size: 27px;
+	line-height: 27px;
+}
+h2 {
+	font-size: 21px;
+	line-height: 25px;
+}
+h3 {
+	font-size: 16px;
+	line-height: 25px;
+}
+h4 {
+	font-size: 16px;
+	line-height: 25px;
+}
+.feature_section3 h1 {
+	font-size: 30px;
+	line-height: 35px;
+}
+
+
+
+
+}
+
+
+
+
+
+@media only screen and (max-width: 479px){
+
+/* columns */
+.one_half, .one_third, .one_fourth, .two_third, .three_fourth, .one_fifth, .onecol_forty, .onecol_sixty, .onecol_thirtyfive,
+.one_half_less, .one_third_less, .one_fourth_less, .two_third_less, .three_fourth_less, .one_fifth_less, .onecol_forty_less, .onecol_sixty_less, .onecol_thirtyfive_less {
+	position: relative;
+	margin-right: 0%;
+	float: left;
+}
+.one_full,
+.one_half,
+.one_third,
+.one_fourth,
+.one_fifth,
+.two_third,
+.three_fourth,
+.onecol_forty,
+.onecol_sixty,
+.onecol_thirtyfive,
+.one_full_less,
+.one_half_less,
+.one_third_less,
+.one_fourth_less,
+.one_fifth_less,
+.two_third_less,
+.three_fourth_less,
+.onecol_forty_less,
+.onecol_sixty_less,
+.onecol_thirtyfive_less {
+	width: 100%;
+	margin-bottom: 50px;
+}
+.last {
+	margin-right: 0 !important;
+	margin-bottom: 0 !important;
+}
+
+.container {
+	width: 300px;
+	margin: auto;
+}
+
+
+.logo {
+	width: 100%;
+}
+.menu_main {
+	width: 93%;
+	position: absolute;
+}
+
+.slidermar12 {
+	padding-top: 75px;
+}
+
+.feature_section1 .box1  {
+	width: 100%;
+	float: left;
+	border-right: none;
+	border-bottom: 1px dashed #dedede;
+	padding: 40px 0px;
+}
+.feature_section1 .box2 {
+	width: 100%;
+	float: left;
+	border:none;
+	padding: 40px 0px 0px 0px;
+}
+.feature_section1 .box1:first-child  {
+	padding: 0px 0px 40px 0px;
+}
+
+.feature_section5 .con {
+	font-size: 14px;
+	padding:10px 16px;
+	margin-top:-115px;
+	margin-left:25px;
+	margin-right:25px;
+	line-height:21px;
+}
+
+.newsletter .one_half {
+	margin: 0;
+}
+.newsletter .enter_email_input {
+	width: 100%;
+}
+
+.copyright_info .one_half {
+	text-align: left;
+	margin: 0;
+}
+ul.footer_social_links {
+	float: left;
+	margin: 10px 0px 0px 0px;
+}
+.footer_social_links li {
+	margin: 0px 5px 0px 0px;
+}
+
+
+.less4 {
+	width: 90%;
+}
+.less6 {
+	width: 90%;
+}
+
+
+
+h1 {
+	font-size: 27px;
+	line-height: 27px;
+}
+h2 {
+	font-size: 21px;
+	line-height: 25px;
+}
+h3 {
+	font-size: 16px;
+	line-height: 25px;
+}
+h4 {
+	font-size: 16px;
+	line-height: 25px;
+}
+.feature_section3 h1 {
+	font-size: 27px;
+	line-height: 30px;
+}
+
+
+}
